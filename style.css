@@ -21,9 +21,18 @@ body{
 }
 
 #_alphabetical_order_a_c,
-#_alphabetical_order_d_f{
+#_alphabetical_order_d_f,
+#_alphabetical_order_g_i,
+#_alphabetical_order_j_l,
+#_alphabetical_order_m_o,
+#_alphabetical_order_p_r,
+#_alphabetical_order_s_u,
+#_alphabetical_order_v_z,
+#_alphabetical_order_1_9,
+#_some_other_companies_with_it_section{
     text-align: center;
     color: white;
+    padding: 20px;
 }
 
 a{
