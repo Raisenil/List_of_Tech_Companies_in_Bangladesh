@@ -1,11 +1,31 @@
 html{
-    font-family:sans-serif
+    font-family:sans-serif;
+}
+
+body{
+    padding: 20px;
+}
+
+.bgcolor{
+    background-color: #6c757d;
 }
 
 #header h1{
     text-align: center;
+    color: white;
 }
 
 .paragraph p{
     text-align: center;
+    color: white;
+}
+
+#_alphabetical_order_a_c,
+#_alphabetical_order_d_f{
+    text-align: center;
+    color: white;
+}
+
+a{
+    align-items: center;
 }
